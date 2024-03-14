@@ -59,7 +59,8 @@ The Login/Signup Page:
 
 The Home Page:
 
-<img width="589" alt="Screenshot 2024-03-14 223620" src="https://github.com/vitts3172/Recipedia/assets/95370870/9f9ded69-0dce-439d-adb2-39348009df9f">
+<img width="589" alt="Screenshot 2024-03-14 224124" src="https://github.com/vitts3172/Recipedia/assets/95370870/d4130095-3018-4b88-9839-5072d234966a">
+
 
 
 
