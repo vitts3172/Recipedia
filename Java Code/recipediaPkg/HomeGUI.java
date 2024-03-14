@@ -15,7 +15,7 @@ import javax.swing.border.LineBorder;
 public class HomeGUI {
     public static void createAndShowGUI(String CurrentUser) {
     	Functionalities fxn = new Functionalities();
-        JFrame frame = new JFrame("Recipe App");
+        JFrame frame = new JFrame("Recipedia");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(800, 600);
         frame.setLocationRelativeTo(null);
