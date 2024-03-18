@@ -45,13 +45,6 @@ Recipedia is a Java application with a graphical user interface (GUI) that allow
 4. Follow the on-screen instructions to interact with the application and manage your recipes.
 
 ## Screenshots
-The Users table:
-
-<img width="253" alt="Screenshot 2024-03-14 222726" src="https://github.com/vitts3172/Recipedia/assets/95370870/4a9a3b31-8858-43fc-8fdc-fac140d3da95">
-
-The Recipes Table:
-
-<img width="266" alt="Screenshot 2024-03-14 222849" src="https://github.com/vitts3172/Recipedia/assets/95370870/dcaf1234-bfbb-4912-85a7-4c184f079ee0">
 
 The Login/Signup Page:
 
